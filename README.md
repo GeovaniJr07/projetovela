@@ -1,2 +1,2 @@
 # projetovela
-Uma vela criada em HTML5 e CSS
+Meu primeiro projeto criado do zero em HTML e CSS.
